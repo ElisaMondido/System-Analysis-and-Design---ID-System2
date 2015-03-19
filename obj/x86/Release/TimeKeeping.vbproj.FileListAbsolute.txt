@@ -1,0 +1,56 @@
+D:\System\Time In\TimeKeeping\bin\Release\TimeKeeping.exe.config
+D:\System\Time In\TimeKeeping\bin\Release\TimeKeeping.exe
+D:\System\Time In\TimeKeeping\bin\Release\TimeKeeping.pdb
+D:\System\Time In\TimeKeeping\bin\Release\TimeKeeping.xml
+D:\System\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.vbprojResolveAssemblyReference.cache
+D:\System\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.admin.resources
+D:\System\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.Form1.resources
+D:\System\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.Resources.resources
+D:\System\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.schedule.resources
+D:\System\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.User.resources
+D:\System\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.vbproj.GenerateResource.Cache
+D:\System\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.exe
+D:\System\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.xml
+D:\System\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.pdb
+D:\System\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.AdminPanel.resources
+D:\System\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.Form2.resources
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\bin\Release\TimeKeeping.exe.config
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.exe
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.xml
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.pdb
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\bin\Release\TimeKeeping.exe
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\bin\Release\TimeKeeping.pdb
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\bin\Release\TimeKeeping.xml
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.vbprojResolveAssemblyReference.cache
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.admin.resources
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.AdminPanel.resources
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.Form1.resources
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.Form2.resources
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.Resources.resources
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.schedule.resources
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.User.resources
+C:\Users\kenneth\Desktop\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.vbproj.GenerateResource.Cache
+C:\Users\chris\Desktop\Time-In\Time In\TimeKeeping\bin\Release\TimeKeeping.exe.config
+C:\Users\chris\Desktop\Time-In\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.exe
+C:\Users\chris\Desktop\Time-In\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.xml
+C:\Users\chris\Desktop\Time-In\Time In\TimeKeeping\obj\x86\Release\TimeKeeping.pdb
+C:\Users\Elisa\Desktop\System\TimeKeeping\bin\Release\TimeKeeping.exe.config
+C:\Users\Elisa\Desktop\System\TimeKeeping\obj\x86\Release\TimeKeeping.exe
+C:\Users\Elisa\Desktop\System\TimeKeeping\obj\x86\Release\TimeKeeping.xml
+C:\Users\Elisa\Desktop\System\TimeKeeping\obj\x86\Release\TimeKeeping.pdb
+C:\Users\Elisa\Desktop\System\TimeKeeping\bin\Release\TimeKeeping.exe
+C:\Users\Elisa\Desktop\System\TimeKeeping\bin\Release\TimeKeeping.pdb
+C:\Users\Elisa\Desktop\System\TimeKeeping\bin\Release\TimeKeeping.xml
+C:\Users\Elisa\Desktop\System\TimeKeeping\obj\x86\Release\TimeKeeping.vbprojResolveAssemblyReference.cache
+C:\Users\Elisa\Desktop\System\TimeKeeping\obj\x86\Release\TimeKeeping.admin.resources
+C:\Users\Elisa\Desktop\System\TimeKeeping\obj\x86\Release\TimeKeeping.AdminPanel.resources
+C:\Users\Elisa\Desktop\System\TimeKeeping\obj\x86\Release\TimeKeeping.Form1.resources
+C:\Users\Elisa\Desktop\System\TimeKeeping\obj\x86\Release\TimeKeeping.Form2.resources
+C:\Users\Elisa\Desktop\System\TimeKeeping\obj\x86\Release\TimeKeeping.Resources.resources
+C:\Users\Elisa\Desktop\System\TimeKeeping\obj\x86\Release\TimeKeeping.schedule.resources
+C:\Users\Elisa\Desktop\System\TimeKeeping\obj\x86\Release\TimeKeeping.User.resources
+C:\Users\Elisa\Desktop\System\TimeKeeping\obj\x86\Release\TimeKeeping.vbproj.GenerateResource.Cache
+C:\Users\Elisa\Desktop\System\MBC ID SYSTEM(Records)\bin\Release\TimeKeeping.exe.config
+C:\Users\Elisa\Desktop\System\MBC ID SYSTEM(Records)\obj\x86\Release\TimeKeeping.exe
+C:\Users\Elisa\Desktop\System\MBC ID SYSTEM(Records)\obj\x86\Release\TimeKeeping.xml
+C:\Users\Elisa\Desktop\System\MBC ID SYSTEM(Records)\obj\x86\Release\TimeKeeping.pdb
